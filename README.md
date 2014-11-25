@@ -1,4 +1,4 @@
-1. This is a emply skeleton war project that uses gradle to build.
+1. This is a empty skeleton war project that uses gradle to build.
 
 2. Building the project
   -You will need a gradle 1.10+ installed and available in your path.
